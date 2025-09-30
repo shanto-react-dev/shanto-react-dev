@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shanto-react-dev&label=Profile%20views&color=0e75b6&style=flat" alt="shanto-react-dev" /> </p>
 
-- 🔭 I’m currently working onn Frontend Development With React.js
+- 🔭 I’m currently working on **Frontend Development With React.js**
 - 🌱 I’m currently learning Backend Development With Node.js
 - 👯 I’m looking to collaborate on Web Development Projects
 - 🤔 I’m looking for help with Solving All Types Of Project Errors
