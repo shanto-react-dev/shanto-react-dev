@@ -34,8 +34,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=shanto-react-dev&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
-
 ###
 
 <picture>
