@@ -34,4 +34,12 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=shanto-react-dev&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## My Contribution Graph
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://gitlab.com/[USERNAME]/[USERNAME]/-/raw/main/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://gitlab.com/[USERNAME]/[USERNAME]/-/raw/main/output/pacman-contribution-graph-light.svg">
+    <img alt="pacman contribution graph" src="https://gitlab.com/[USERNAME]/[USERNAME]/-/raw/main/output/pacman-contribution-graph-light.svg">
+</picture>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
