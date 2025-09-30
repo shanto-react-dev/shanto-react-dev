@@ -12,7 +12,7 @@
 - 😄 Pronouns:  ***He/him***
 - ⚡ Fun fact:  ***I love playing Cricket, playing games and other things***
 
-## 🌐 Social Media:
+## 🌐 Connect With Me:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/md.sakibul.hasan.64036) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/react-developer-shanto) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:react.dev.shanto2007@gmail.com) 
 
 # 💻 Skills I Have:
