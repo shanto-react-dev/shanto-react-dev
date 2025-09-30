@@ -3,14 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shanto-react-dev&label=Profile%20views&color=0e75b6&style=flat" alt="shanto-react-dev" /> </p>
 
-- 🔭 I’m currently working on *Frontend Development With React.js*
-- 🌱 I’m currently learning Backend Development With Node.js
-- 👯 I’m looking to collaborate on Web Development Projects
-- 🤔 I’m looking for help with Solving All Types Of Project Errors
-- 💬 Ask me about HTML5, CSS3, Bootstrap, JS, React.js, Tailwind.css, Redux, React Router & React Hook Form Etc
-- 📫 How to reach me: Gmail: react.dev.shanto2007@gmail.com
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: I love playing Cricket, playing games and other things
+- 🔭 I’m currently working on --- ***Frontend Development With React.js***
+- 🌱 I’m currently learning --- ***Backend Development With Node.js***
+- 👯 I’m looking to collaborate on --- ***Web Development Projects***
+- 🤔 I’m looking for help with --- ***Solving All Types Of Project Errors***
+- 💬 Ask me about --- ***HTML5, CSS3, Bootstrap, JS, React.js, Tailwind.css, Redux, React Router & React Hook Form Etc***
+- 📫 How to reach me: ***Gmail: react.dev.shanto2007@gmail.com***
+- 😄 Pronouns: ***He/him***
+- ⚡ Fun fact: ***I love playing Cricket, playing games and other things***
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/md.sakibul.hasan.64036) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/react-developer-shanto) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:react.dev.shanto2007@gmail.com) 
