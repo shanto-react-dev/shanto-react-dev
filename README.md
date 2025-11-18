@@ -1,8 +1,6 @@
- # Hi 👋, I'm MD: Sakibul Hasan (Shanto)
+<h1 align="center"> Hi 👋, I'm MD: Sakibul Hasan (Shanto) </h1>
+<h3 align="center"> A passionate Frontend Web Developer From Bangladesh </h3> <br>
 
-### A passionate Frontend Web Developer From Bangladesh
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shanto-react-dev&label=Profile views&color=0e75b6&style=flat" alt="shanto-react-dev" /> </p>
 🔭 I’m currently working on --- ***Frontend Development With React.js***<br>🌱 I’m currently learning --- ***Backend Development With Node.js***<br>👯 I’m looking to collaborate on --- ***Web Development Projects***<br>🤔 I’m looking for help with --- ***Solving All Types Of Project Errors***<br>💬 Ask me about --- ***HTML5, CSS3, Bootstrap, JS, React.js, Next.js, Tailwind.css, Redux, React Router & React Hook Form Etc***<br>📫 How to reach me: Gmail: ***react.dev.shanto2007@gmail.com***<br>😄 Pronouns: ***He/him***<br>⚡ Fun fact: ***I love playing Cricket, playing games and other things***
 
 
